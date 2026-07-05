@@ -77,31 +77,31 @@ A multi-agent AI content creation platform built with **Python** and **Streamlit
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
 ## Create Content
 
-![Create Content](screenshots/create_content.png)
+![Create Content](Screenshots/create_content.png)
 
 ---
 
 ## Agent Workflow
 
-![Workflow](screenshots/workflow.png)
+![Workflow](Screenshots/workflow.png)
 
 ---
 
 ## History
 
-![History](screenshots/history.png)
+![History](Screenshots/history.png)
 
 ---
 
 ## Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](Screenshots/analytics.png)
 
 ---
 
